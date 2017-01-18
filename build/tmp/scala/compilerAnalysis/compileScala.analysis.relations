@@ -1,0 +1,10 @@
+products:
+   src/main/scala/Main.scala -> build/classes/main/Main.class
+binary dependencies:
+   src/main/scala/Main.scala -> /home/kohry/.gradle/caches/3.3/generated-gradle-jars/gradle-api-3.3.jar
+   src/main/scala/Main.scala -> /home/kohry/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.1/dd235d04037dc6f4b6090257872dd35359a563ce/scala-library-2.12.1.jar
+   src/main/scala/Main.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/Main.scala -> Main
